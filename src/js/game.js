@@ -20,3 +20,5 @@ export class Game extends Engine {
 }
 
 new Game()
+
+// test
